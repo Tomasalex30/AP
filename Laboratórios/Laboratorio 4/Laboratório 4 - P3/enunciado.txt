@@ -1,0 +1,21 @@
+Gerir lista de casamento
+    - Noivos criam lista de casamento
+    - Convidade têm acesso à lista 
+
+Peguntar se é noivo ou convidado que se baseiam em dois menus:
+    
+    Se for noivo:
+        Clc - Indicar a dimensao da lista de presentes
+            - Inserir o nome dos presentes de casamento
+        
+        ELC - Eliminar o nome do presente a eliminar da lista criada
+            - Deve ser apresentado a lista de presentes atualizada (sem o presente eliminado)
+    
+    Se for convidado
+        VLC - Ver a lista de presentes atualizada
+        
+        SP - Perguntar quantos presentes quer comprar na lista de presentes
+           - Digitar nome dos presentes que quer comprar presente na lista de presentes
+           - Eliminar os presentes comprados
+           - Deve ser apresentada a lista de presentes atualizada (sem os presentes comprados)
+           
